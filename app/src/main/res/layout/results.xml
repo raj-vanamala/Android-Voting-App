@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/smit"
+    android:orientation="vertical">
+
+
+    <Button
+        android:id="@+id/click"
+        android:layout_width="330dp"
+        android:layout_height="wrap_content"
+        android:onClick="click_Click"
+        android:text="click here to check"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/r_reg_no"
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="registration number"
+        android:textAlignment="viewStart"
+        android:textColor="@android:color/background_light"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/r_vp_id"
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="VP_ID"
+        android:textColor="@android:color/background_light"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/r_gs_id"
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="GS_ID"
+        android:textColor="@android:color/background_light"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/ri"
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="COUNT"
+        android:textColor="@android:color/background_light"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/ay"
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="COUNT"
+        android:textColor="@android:color/background_light"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/pr"
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="COUNT"
+        android:textColor="@android:color/background_light"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/sh"
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="COUNT"
+        android:textColor="@android:color/background_light"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/lg"
+        android:layout_width="330dp"
+        android:layout_height="wrap_content"
+        android:onClick="logout_Click"
+        android:text="logout"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+</LinearLayout>

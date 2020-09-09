@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">F_Evoting</string>
+    <string name="signUp">signUp</string>
+    <string name="signIn">signIn</string>
+    <string name="category">category</string>
+    <string name="vp">vp</string>
+    <string name="gs">vp</string>
+    <string name="pic">TODO</string>
+    <string name="lg">logout</string>
+
+
+    <string name="register">REGISTER</string>
+    <string name="sign_in">SIGN IN</string>
+
+
+    <string name="name">NAME</string>
+    <string name="name1">Name</string>
+    <string name="registration_no">REGISTRATION NO</string>
+    <string name="password">PASSWORD</string>
+    <string name="register_button">register</string>
+
+
+    <string name="sign_in_registraion_no">Registraion No</string>
+    <string name="sign_in_password">Password</string>
+    <string name="sign_in_button">SIGN IN</string>
+
+
+
+    <string name="category_vice_president_button">VICE PRESIDENT</string>
+    <string name="category_general_secretary_button">GENERAL SECRETARY</string>
+
+
+    <string name="vp_candidate_1">Candidate-1</string>
+    <string name="vp_name_rishav">NAME:RISHAV</string>
+    <string name="vp_vote_1">VOTE</string>
+    <string name="vp_candidate_2">Candidate-2</string>
+    <string name="VP_name_ayush">NAME: AYUSH</string>
+    <string name="vp_vote_2">VOTE</string>
+
+
+    <string name="gs_candidate_1">Candidate-1</string>
+    <string name="gs_name_prithvi">NAME: PRITHVI</string>
+    <string name="gs_vote_1">VOTE</string>
+    <string name="gs_candidate_2">Candidate-2</string>
+    <string name="gs_name_shivansh">NAME: SHIVANSH</string>
+    <string name="gs_vote_2">VOTE</string>
+    <string name="results">results</string>
+    <string name="result">VP_ID</string>
+
+
+</resources>
